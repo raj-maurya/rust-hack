@@ -7,7 +7,7 @@ extern crate rocket;
 
 #[get("/")]
 fn index() -> &'static str {
-    "Hello, world!"
+    "Hello, This is from Geetika and avni!"
 }
 
 fn main() {
